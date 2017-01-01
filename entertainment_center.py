@@ -1,6 +1,7 @@
 from media import Movie
 import fresh_tomatoes
-
+#Code to create object of the class Movie and calling
+#init of the Movie class to intialize the variables.
 toy_story = Movie("Toy Story",
                   "A story of a boy and his toys that come to life",
                   "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
