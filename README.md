@@ -1,6 +1,4 @@
 ##Fresh Tomatoes
-![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
-
 - Project 1 under the Full Stack Web Developer Nanodegree at Udacity
 
 ### Details
